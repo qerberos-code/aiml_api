@@ -1,1 +1,1 @@
-# aims_api
+# aiml_api
