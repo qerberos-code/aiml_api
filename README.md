@@ -7,7 +7,7 @@ Clone the github repository in your virtual environment and activate it.
 In your terminal run:
 
 ```
-pip install streamlit
+pip install requirements.txt
 ```
 ```
 streamlit run qerberos
