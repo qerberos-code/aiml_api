@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Qerboros", page_icon=":shark:", layout="wide")
+st.set_page_config(page_title="Qerberos", page_icon=":shark:", layout="wide")
 
 def analyze_logs(logs):
     # The code (model) to determine if the logs are malicious or benign goes here
