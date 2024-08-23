@@ -23,3 +23,11 @@ To ensure all model requirements are met you will also need to install the follo
 ```
 
 The dataset folder holds the training set files in csv format.
+
+# How to 
+
+The Windows log detecgtor which is a classifier is Finetuned_Phi_3_medium_4k_instruct_Unsloth.ipynb 
+
+
+
+
