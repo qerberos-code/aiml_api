@@ -1,6 +1,8 @@
 # aiml_api
 This project leverages LLMs, specifically Llama 3.1 and the lightweight phi-3-instruct model, to detect malicious OS events, ensuring seamless integration with existing systems for enhanced cybersecurity.
 
+https://aimlapi-nmsdr87bsd5ovtofnlmjxd.streamlit.app/
+
 ## Get Started
 Clone the github repository in your virtual environment and activate it.
 
