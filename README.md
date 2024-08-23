@@ -26,7 +26,7 @@ The dataset folder holds the training set files in csv format.
 
 # How to 
 
-The Windows log detecgtor which is a classifier is Finetuned_Phi_3_medium_4k_instruct_Unsloth.ipynb 
+The Windows log detecgtor which is a classifier is Finetuned_Phi_3_medium_4k_instruct_Unsloth.ipynb.  The ipython notebook needs to be run on colab.
 
 
 
